@@ -1,0 +1,24 @@
+*{
+
+}
+
+.header-big{
+	font-size: 25px;
+}
+
+.header-middle{
+	font-size: 15px;
+}
+
+.header-small{
+	font-size: 10px;
+}
+
+
+.bg-darkblue{
+	background: #062e51;
+}
+
+.bg-lightblue{
+	background: #336ea2;
+}
